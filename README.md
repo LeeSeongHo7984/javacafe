@@ -45,15 +45,18 @@
                 return "category/add/successCategory";
 
               }
-              
-![image](https://user-images.githubusercontent.com/75346102/187584052-fc2a4a0d-7405-470b-921e-c171852c010e.png)
+           
+           
+             
+  +카테고리 선택화면
+![image](https://user-images.githubusercontent.com/75346102/187585857-f84c654c-b9d1-4f1c-b1b3-191f9a62976a.png)
 
 
         
   + 메뉴 추가
-           ++ 각각의 카테고리에 맞게 그 안에 메뉴들을 표시해줍니다.
-           ++ 메뉴를 추가 할시 파일을 추가합니다.
-           ++ 가지고 온 파일의 이름은 DB에 저장한 뒤 저장되 있는 고유번호를 가지고 와 이미지를 띄워줍니다
+           + 각각의 카테고리에 맞게 그 안에 메뉴들을 표시해줍니다.
+           + 메뉴를 추가 할시 파일을 추가합니다.
+           + 가지고 온 파일의 이름은 DB에 저장한 뒤 저장되 있는 고유번호를 가지고 와 이미지를 띄워줍니다
            
            
            AddMenuController 일부
@@ -127,7 +130,7 @@
                   return "menu/addMenu/successAddMenu";
                  }
                 
-![image](https://user-images.githubusercontent.com/75346102/187584327-e5528b47-2a11-4d48-9ff7-79f0bda6f44c.png)
+![image](https://user-images.githubusercontent.com/75346102/187585933-917f0e92-c5d1-465a-9faa-3b71818b04e6.png)
 
 
   + 메뉴를 선택 시 결제 화면
